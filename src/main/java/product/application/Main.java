@@ -25,7 +25,7 @@ public class Main {
         int n = sc.nextInt();
 
         for (int i=1; i<=n; i++) {
-            System.out.println("Datos do produto #" + i + ":");
+            System.out.println("Dados do produto #" + i + ":");
             System.out.print("Comum, usado, importado (c/u/i)? ");
             char type = sc.next().charAt(0);
             System.out.print("Nome: ");
@@ -49,7 +49,7 @@ public class Main {
         }
 
         System.out.println();
-        System.out.println("ETIQUETAS DE PRECO:");
+        System.out.println("ETIQUETAS DE PREÇO:");
         for (Product prod : list) {
             System.out.println(prod.priceTag());
         }
