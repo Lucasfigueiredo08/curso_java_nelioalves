@@ -1,4 +1,4 @@
-package Comment.entities;
+package comment.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

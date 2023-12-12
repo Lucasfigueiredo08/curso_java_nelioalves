@@ -1,4 +1,4 @@
-package Comment.entities;
+package comment.entities;
 
 public class Comment {
 

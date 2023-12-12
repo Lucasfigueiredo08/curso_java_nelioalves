@@ -1,11 +1,10 @@
-package Comment.application;
+package comment.application;
 
-import Comment.entities.Comment;
-import Comment.entities.Post;
+import comment.entities.Comment;
+import comment.entities.Post;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.logging.SimpleFormatter;
 
 public class Main {
 
